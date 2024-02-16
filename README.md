@@ -1,6 +1,5 @@
 # Frontend Mentor - Recipe page
 
-# Overview
 This project involves building a single-recipe page using HTML and CSS. The goal is to create an appealing layout for a specific recipe.
 
 # What I Learned
